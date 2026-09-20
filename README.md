@@ -15,7 +15,7 @@ When working with large modification files using tools like the *SFCFF Editor*, 
 This script reads your XML file and automatically sorts every spell using a **three-tier smart hierarchy**: 
 
 1. **Alphabetically** by Spell Line (e.g., Decay ➔ FireBall ➔ FireBurst ➔ Freeze).
-2. **Numerically by Spell Level** (`Level="1"` up to `Level="13"`, sending special/enemy high-level spells like `Level="101"` safely to the end of the line).
+2. **Numerically by Spell Level** (`Level="1"` up to `Level="20"`, sending special/enemy high-level spells like `Level="101"` safely to the end of the line).
 3. **Numerically by Spell ID** (as a foolproof tie-breaker).
 
 ### Features
