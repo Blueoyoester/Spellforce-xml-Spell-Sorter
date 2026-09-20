@@ -33,9 +33,9 @@ This script reads your XML file and automatically sorts every spell using a **th
 
 ### Roadmap / Future Plans
 
-* [ ] Create a graphical user interface (GUI) desktop application.
-* [ ] Add explicit language selection settings.
-* [ ] Expand functionality to support item files (`Items.xml`) and creature files.
+Create a graphical user interface (GUI) desktop application.
+Add explicit language selection settings.
+Expand functionality to support item files (`Items.xml`) and creature files.
 
 ### License
 
