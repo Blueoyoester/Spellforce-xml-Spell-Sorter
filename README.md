@@ -4,7 +4,7 @@ A lightweight, automated Python utility designed for **SpellForce: Platinum Edit
 
 **Version:** 1.0.0 | **License:** Modified MIT (Non-Commercial) | **Platform:** Windows | **Language:** Python | **Maintained:** Yes
 
-[Features](#features) • [How to Use](#how-to-use) • [Roadmap](#roadmap--future-plans) • [License](#license)
+[What It Does](#what-it-does) • [Features](#features) • [How to Use](#how-to-use) • [Roadmap](#roadmap--future-plans) • [License](#license)
 
 ---
 
