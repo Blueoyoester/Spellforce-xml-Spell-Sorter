@@ -2,7 +2,7 @@
 
 A lightweight, automated Python utility designed for **SpellForce: Platinum Edition** modders. This tool reorganizes the structure of your `[i000, t2002] Spells.xml` file into a perfectly logical and clean layout without breaking game files or deleting vital developer comments.
 
-![release](https://shields.io) ![license](https://shields.io) ![platform](https://shields.io) ![language](https://shields.io) ![maintained](https://shields.io)
+**Version:** 1.0.0 | **License:** Modified MIT (Non-Commercial) | **Platform:** Windows | **Language:** Python | **Maintained:** Yes
 
 [Features](#features) • [How to Use](#how-to-use) • [Roadmap](#roadmap--future-plans) • [License](#license)
 
@@ -40,3 +40,4 @@ This script reads your XML file and automatically sorts every spell using a **th
 ### License
 
 This project is licensed under the Modified MIT License for Non-Commercial Use - see the LICENSE file for details. Feel free to use, modify, and share it within the modding community for personal use!
+
