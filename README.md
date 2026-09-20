@@ -26,8 +26,10 @@ This script reads your XML file and automatically sorts every spell using a **th
 
 ### How to Use
 
-1. Place the `sorter.py` script into the **same folder** where your game file `[i000, t2002] Spells.xml` is located.
-2. Run the script using Python (or click the **Play** button in Visual Studio Code).
+> **Note on Directory:** The script must be placed in the specific working directory where you extracted the game's `data.cff` file using the SFCFF Editor (the official community modding tool for SpellForce).
+
+1. Place the `sorter.py` script into the same folder where your game file `[i000, t2002] Spells.xml` is located.
+2. Run the script using Python (or click the Play button in Visual Studio Code).
 3. A brand new, beautifully sorted file named `[i000, t2002] Spells_Sorted.xml` will be generated instantly in the same directory.
 4. Back up your original file, rename the new one by removing `_Sorted`, and you're good to go!
 
